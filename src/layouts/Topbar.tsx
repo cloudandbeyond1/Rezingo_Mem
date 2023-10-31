@@ -58,7 +58,6 @@ import { useAppContext } from '../AppContext';
 
 export interface NotificationItem {
   id: number;
- 
   text: string;
   subText: string;
   icon?: string;
